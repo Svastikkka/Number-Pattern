@@ -6,7 +6,6 @@ while num>=i:
         print(j,end="")
         j+=1
 
-    space=1
     spaces=1
     while spaces<=(num-i):
         print(" ",end="")
